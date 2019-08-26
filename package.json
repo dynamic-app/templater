@@ -1,0 +1,25 @@
+{
+  "name": "dynamic-app-templater",
+  "version": "1.0.0",
+  "description": "Template strings es6 helper (onEvent, map, find).",
+  "main": "templater.js",
+  "author": "Aron Stein",
+  "license": "MIT",
+  "homepage": "https://github.com/dynamic-app/templater",
+  "bugs": {
+    "url": "https://github.com/dynamic-app/templater/issues"
+  },
+  "keywords": [
+    "templater"
+  ],
+  "publishConfig": {
+    "access": "public"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dynamic-app/templater.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
